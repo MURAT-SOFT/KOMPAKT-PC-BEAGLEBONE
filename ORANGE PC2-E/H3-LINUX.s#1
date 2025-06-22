@@ -26560,7 +26560,6 @@ reflow soldering
 <text x="180.34" y="13.716" size="1.778" layer="214" ratio="15">Vout=0.6x(1+Rg/Rh)</text>
 <text x="45.72" y="-12.7" size="6.4516" layer="94" ratio="15">The global future changes file was read up to the board section at 16.06.2015</text>
 <text x="76.2" y="410.845" size="1.778" layer="94">???</text>
-<text x="22.86" y="828.04" size="12.7" layer="94">ALLWINNER H3- ORANGE PC PLUS 2E REV.B</text>
 </plain>
 <instances>
 <instance part="C81" gate="G$1" x="22.86" y="378.46" smashed="yes" rot="MR270">
